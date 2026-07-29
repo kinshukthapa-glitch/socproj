@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+chroma_db/
+chat_history.json
+.agents/
+*.egg-info/
+dist/
+build/
